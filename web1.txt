@@ -1,1 +1,2 @@
-halo saya belajar GIT
+ini adalah web 1
+saya tambahkan baris 2 di web 1
